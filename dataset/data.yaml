@@ -1,0 +1,6 @@
+names:
+- person
+- head
+nc: 2
+train: E:\GitHub-python1\auto_label_and_train\dataset/train/images
+val: E:\GitHub-python1\auto_label_and_train\dataset/valid/images
